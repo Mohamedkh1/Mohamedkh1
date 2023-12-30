@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Khaled</h1>
-<h3 align="center">Absolutely! Here's a modified version: "As a Computer Science and Engineering student, I'm on a quest to master full-stack development.</h3>
+<h3 align="center">As a Computer Science and Engineering student, I'm on a quest to master full-stack development.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
